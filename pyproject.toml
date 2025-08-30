@@ -20,5 +20,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/pydatastructs"
-"Issues" = "https://github.com/yourusername/pydatastructs/issues"
+"Source" = "https://github.com/Ashay-20/pydatastructs"
+"Issues" = "https://github.com/Ashay-20/pydatastructs/issues"
