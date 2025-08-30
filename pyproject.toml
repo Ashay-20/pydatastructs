@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pydatastructs"
+name = "pydsboilerplates"
 version = "0.1.0"
 description = "A Python library of classic data structures like LinkedList, Tree, and more."
 readme = "README.md"
@@ -20,5 +20,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Source" = "https://github.com/Ashay-20/pydatastructs"
-"Issues" = "https://github.com/Ashay-20/pydatastructs/issues"
+"Source" = "https://github.com/Ashay-20/pydsboilerplates"
+"Issues" = "https://github.com/Ashay-20/pydsboilerplates/issues"
