@@ -1,11 +1,4 @@
-class Node:
-    def __init__(self, val):
-        self.val = val
-        self.nxt = None
-
-    def __repr__(self):
-        return str(self.val)
-
+from utils import ListNode as Node
 
 class LinkedList:
     def __init__(self,nodes):
