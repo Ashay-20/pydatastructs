@@ -1,4 +1,4 @@
-from utils import ListNode as Node
+from pydsboilerplates.utils import ListNode as Node
 
 class LinkedList:
     def __init__(self,nodes):
