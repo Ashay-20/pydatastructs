@@ -1,4 +1,4 @@
-from utils import TreeNode as Node
+from pydsboilerplates.utils import TreeNode as Node
 
 
 class Tree:
