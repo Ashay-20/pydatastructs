@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pydsboilerplates"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Python library of classic data structures like LinkedList, Tree, and more."
 readme = "README.md"
 requires-python = ">=3.8"
